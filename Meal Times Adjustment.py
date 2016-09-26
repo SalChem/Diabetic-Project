@@ -9,7 +9,7 @@ plt.style.use('fivethirtyeight')
 #patient 1-5
 #index=[0,1,2,3,4,5])
 #The following series has the total meal times per patient
-s_Total_Meal_times = pd.Series ([100,100,100,100,100,100])
+s_Total_Meal_times = pd.Series ([91,89,25,110,201])
 s1 = pd.Series([42,58,63,66,68,70], index=[5,10,15,20,25,30])
 s2 = pd.Series([33,45,52,54,59,65], index=[5,10,15,20,25,30])
 s3 = pd.Series([9,12,13,14,15,16], index=[5,10,15,20,25,30])
