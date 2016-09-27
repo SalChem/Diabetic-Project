@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-#if using interactive python, add line below
+#if using interactive python, add line below (inline, notebook, or nbaagg are all possible)
 #%matplotlib inline
 
 #This is graph line style, from Nate silver
